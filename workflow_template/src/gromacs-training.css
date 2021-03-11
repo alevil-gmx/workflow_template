@@ -29,16 +29,18 @@
 /* Notebook styling */
 
 body, p, div.rendered_html { 
-    color: #3e3e7f;
-/*    font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif; */
+    color: #162351;
+     font-family:  'PT Sans';
+/*    font-family:  'PT Sans', 'PT Serif', Georgia, Times, 'Times New Roman', serif; */
     font-size: 12pt;
+    align: justify;
 }
 
-body { background-color: #eee8d5 !important; }
+body { background-color: #eee8d5 !important;  align: justify; }
 
 #notebook { 
-    background-color: #d0d0ff !important;
-    box-shadow: inset 20px 36px 20px -35px black !important;
+    background-color: #E7EFFF !important;
+    box-shadow: inset 20px 36px 20px -35px black !important;  align: justify;
 }
 
 /*
