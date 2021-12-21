@@ -1,5 +1,5 @@
 ;define                   =  -DPOSRES
-include                  = -I/home/villa/work/UseCaseI/forcefield
+;include                  = -I/home/villa/work/UseCaseI/forcefield
 integrator               = md
 tinit                    = 0
 dt                       = 0.002
