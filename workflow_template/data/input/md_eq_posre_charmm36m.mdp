@@ -28,7 +28,7 @@ DispCorr                 = EnerPres
 constraints              = h-bonds
 constraint_algorithm     = LINCS
 ; new
-Pcoupl                   = C-rescale
+Pcoupl                   = Berendsen
 tau_p                    = 5.0  
 ref_p                    = 1.0 
 compressibility          = 4.5e-5 
